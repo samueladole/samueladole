@@ -17,7 +17,7 @@
 
 ## 🚀 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,rust,python,fastapi,docker,graphql,postgres,figma)
+![Tech Stack](https://skillicons.dev/icons?i=typescript,react,vuejs,nextjs,nestjs,nodejs,rust,tailwind,python,fastapi,flask,django,docker,graphql,mongodb,postgres,prisma,vscode,linux)
 
 ---
 
@@ -25,6 +25,18 @@
 
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samueladole&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueladole&layout=compact&theme=tokyonight)
+
+---
+
+## 📚 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueladole&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samueladole&theme=tokyonight&column=7&margin-w=5&margin-h=5)
 
 ---
 
