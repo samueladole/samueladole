@@ -1,8 +1,9 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:7400b8&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=blur&color=0:5e60ce,100:7400b8&height=200&section=header&text=Samuel%20Adole%27s%20GitHub&fontSize=35&fontColor=ffffff)
 
 ## About Me
 
-I am **Samuel Adole**, a passionate developer with interests in **AI/ML**, **Full-Stack Development**, and creating **intuitive user experiences**.  
+Hi, I’m **Samuel Adole** — a dedicated developer passionate about **AI/ML**, **Full-Stack Development**, and crafting **intuitive, user-centric experiences**. 
+I enjoy transforming complex problems into elegant, practical solutions and continuously exploring emerging technologies.
 
 - Currently exploring **Golang**, and **distributed systems**.  
 - Open to collaborating on **open-source AI projects**, **developer productivity tools**, and **mission-driven startups**.  
@@ -11,19 +12,7 @@ I am **Samuel Adole**, a passionate developer with interests in **AI/ML**, **Ful
 ---
 
 ## Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=typescript,react,nextjs,nestjs,nodejs,tailwind,python,fastapi,flask,django,docker,mongodb,postgres.oracle,mysql,prisma,vscode,linux)
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samueladole&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueladole&layout=compact&theme=tokyonight)
-
----
-
-## Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samueladole&theme=tokyonight&column=7&margin-w=5&margin-h=5)
+![Tech Stack](https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,fastapi,python,golang,mongodb,postgres,prisma)
 ---
 
 ## Let’s Build Something Exceptional Together
